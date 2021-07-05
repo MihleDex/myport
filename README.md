@@ -1,7 +1,7 @@
 # myport
 Simple python port tcp scanner that can be imported
 
-##Usage
+## Usage
 import myport
 
 sc = myport.Scanner(target,port_range_start,port_range_end,timeout)
